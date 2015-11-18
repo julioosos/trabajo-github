@@ -1,13 +1,5 @@
 # trabajo-github
 Echo por julio y  miguel angel
-INTENTANDO PULL
+Aqui van los datos ya subidos que colisionaran,
+al hacer un pull desde otro ordenador.
 
-intentando la colision de informacion
-mediante varias cosas
-debido a esto mejoraremos
-
-REPORT FOR NOOB
-#PRAYFORFRANCIA
-#PRAYFORSIRIA
-DIEZ VIRGEN A LOS 40
-CARLOS TAMBIEN
